@@ -1,0 +1,125 @@
+ERROR!Engine can't start without any connected tanks.
+Total Fuel Quantity: 55
+Total Consumed Fuel Quantity: 0
+Tank is not found
+Total Fuel Quantity: 405
+Total Consumed Fuel Quantity: 0
+ERROR!You cant fill fuel more than tank's capacity.
+ERROR!You cant fill fuel more than tank's capacity.
+ERROR!You cant fill fuel more than tank's capacity.
+Total Fuel Quantity: 399.5
+Total Consumed Fuel Quantity: 11
+Total Fuel Quantity: 361
+Total Consumed Fuel Quantity: 49.5
+Tank 1
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is open.
+Tank 2
+Tank Capacity 150
+Tank Quantity 150
+Tank is not broken.
+Tank valve is open.
+Tank 3
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is close.
+Tank 4
+Tank Capacity 250
+Tank Quantity 0
+Tank is not broken.
+Tank valve is close.
+Total Fuel Quantity: 344.5
+Total Consumed Fuel Quantity: 66
+Fuel Tank Count: 4
+Total Fuel Quantity: 328
+Total Consumed Fuel Quantity: 82.5
+Tank 1
+Tank Capacity 100
+Tank Quantity 50.5
+Tank is not broken.
+Tank valve is open.
+Tank 2
+Tank Capacity 150
+Tank Quantity 150
+Tank is not broken.
+Tank valve is open.
+Tank 3
+Tank Capacity 100
+Tank Quantity 105
+Tank is not broken.
+Tank valve is close.
+Total Fuel Quantity: 311.5
+Total Consumed Fuel Quantity: 99
+Tank 1
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is open.
+Total Fuel Quantity: 295
+Total Consumed Fuel Quantity: 115.5
+Tank 2
+Tank Capacity 150
+Tank Quantity 150
+Tank is not broken.
+Tank valve is open.
+Total Fuel Quantity: 278.5
+Total Consumed Fuel Quantity: 132
+Total Fuel Quantity: 262
+Total Consumed Fuel Quantity: 148.5
+Total Fuel Quantity: 223.5
+Total Consumed Fuel Quantity: 187
+ERROR!You cant fill fuel more than tank's capacity.
+Total Fuel Quantity: 207
+Total Consumed Fuel Quantity: 203.5
+ERROR!You cant fill fuel more than tank's capacity.
+Total Fuel Quantity: 190.5
+Total Consumed Fuel Quantity: 220
+ERROR!You cant fill fuel more than tank's capacity.
+Total Fuel Quantity: 174
+Total Consumed Fuel Quantity: 236.5
+Tank 1
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is close.
+Total Fuel Quantity: 157.5
+Total Consumed Fuel Quantity: 253
+Tank 2
+Tank Capacity 150
+Tank Quantity 150
+Tank is not broken.
+Tank valve is open.
+Total Fuel Quantity: 141
+Total Consumed Fuel Quantity: 269.5
+Tank 3
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is close.
+Total Fuel Quantity: 124.5
+Total Consumed Fuel Quantity: 286
+There is no enough available fuel. Engine can not consumed fuel. Engine is stopped.
+Tank 1
+Tank Capacity 100
+Tank Quantity 100
+Tank is not broken.
+Tank valve is close.
+Tank 2
+Tank Capacity 150
+Tank Quantity 150
+Tank is not broken.
+Tank valve is open.
+Total Fuel Quantity: 119
+Total Consumed Fuel Quantity: 286
+Engine: Simulation stopped
+Tank 1: Simulation stopped.
+Valve 1: Simulation stopped.
+Tank 2: Simulation stopped.
+Valve 2: Simulation stopped.
+Tank 3: Simulation stopped.
+Valve 3: Simulation stopped.
+Tank 4: Simulation stopped.
+Valve 4: Simulation stopped.
